@@ -3,8 +3,7 @@
 
 🌱 I’m currently enrolled in a MicroMaster in IoT
 
-
-
+⚡ I’m interested in all things electronics
 
 Technical Skills
 
