@@ -7,7 +7,7 @@
 
 Technical Skills
 
-Python   •   C   •   Embedded Systems   •   MATLAB   •  RStudio   •  Data analytics   •  BASH  • Linux Assembly    •   Solidworks  •   Arduino    •   C++    •   SQLite   •   Git    • Communication protocols
+Python   •    C++   •  C   •   Embedded Systems   •   Arduino     •  Data analytics   •  BASH  • Linux    •   Assembly    •  MATLAB   •  RStudio  •  Solidworks     •   SQLite   •   Git    • Communication protocols
 
 
 Core Skills
