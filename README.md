@@ -8,7 +8,7 @@ and learning AWS IoT
 
 Technical Skills
 
-Python   •    C++   •  C   •  HTML  •  CSS  Embedded Systems   •   Arduino   •  Data analytics   •  BASH  • Linux   •   Assembly    •  MATLAB   •  RStudio  •  Solidworks   •   SQLite   •   Git    • Communication protocols
+Python   •    C++   •  C   •  HTML  •  CSS  •   AWS   •    Embedded Systems   •   Arduino   •  Data analytics   •  BASH  • Linux   •   Assembly    •  MATLAB   •  RStudio  •  Solidworks   •   SQLite   •   Git    • Communication protocols
 
 
 Core Skills
