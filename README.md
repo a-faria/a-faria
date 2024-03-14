@@ -1,8 +1,7 @@
 ### Hi I'm Anabela
 🔭 I’ve recently graduated from a Higher Diploma in Engineering (Level 8) at Dublin City University
 
-🌱 I’m currently enrolled in a MicroMaster in IoT
-and Comptia Networking +
+🌱 I’m currently enrolled in the course Comptia Networking + with e-college
 
 ⚡ I’m interested in all things electronics
 
