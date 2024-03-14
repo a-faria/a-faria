@@ -2,7 +2,7 @@
 🔭 I’ve recently graduated from a Higher Diploma in Engineering (Level 8) at Dublin City University
 
 🌱 I’m currently enrolled in a MicroMaster in IoT
-and learning AWS IoT and Networking
+and Comptia Networking +
 
 ⚡ I’m interested in all things electronics
 
