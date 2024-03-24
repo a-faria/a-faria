@@ -12,7 +12,7 @@ Python   •    C++   •  C   •  HTML  •  CSS  •   AWS   •    Embedded 
 
 Core Skills
 
- Team Leadership   •   Programming    •    Project Coordination   •   Critical Analysis  •   Communication  •   Detail Oriented  •   Troubleshooting •   Problem solving
+ Team Leadership   •   Programming    •    Project Coordination   •   Critical Analysis  •   Communication  •   Detail Oriented  •   Troubleshooting •   Problem solving   •    Technical Writing 
 
 <!--
 **a-faria/a-faria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
