@@ -3,6 +3,7 @@
 
 🌱 I’m currently enrolled in the course Comptia Networking + with e-College:
 https://www.ecollege.ie/all-courses/comptia-network
+
 and plan to get the N10-008 Network+ certification
 
 ⚡ I’m interested in all things electronics
